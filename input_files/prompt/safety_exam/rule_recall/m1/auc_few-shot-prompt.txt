@@ -1,0 +1,14 @@
+Question: In a bustling factory, John, a safety officer, observed a worker using a grinding machine without wearing eye protection, while others around were complying with PPE policies. Which of the following is NOT required PPE for a grinding operation according to safety standards?  
+answer: Respiratory masks
+
+Question: Sarah was responsible for conducting a safety audit at a manufacturing plant but noticed that several fire extinguishers were either missing or expired. Which of the following is NOT required during a fire extinguisher inspection?  
+answer: Counting the number of sprinklers
+
+Question: During a routine inspection, a construction site supervisor, Mike, noticed that workers were not following proper fall protection measures at elevated work areas. Which of the following is NOT a fall protection method?  
+answer: Loose clothing
+
+Question: During a chemical handling operation in a laboratory, Emma realized that the Safety Data Sheets (SDS) were not accessible to the workers handling hazardous substances. Which of the following is NOT part of the required information in a Safety Data Sheet?  
+answer: Local wildlife information
+
+Question: A construction worker named John is required to work on a building site in a metropolitan area, specifically on the third floor, installing windows. He has received safety training but is not using a safety harness as there are temporary guardrails installed. However, he notices the guardrails are slightly loose. What is the minimum force guardrails should be able to withstand according to OSHA?  
+answer: 200 pounds

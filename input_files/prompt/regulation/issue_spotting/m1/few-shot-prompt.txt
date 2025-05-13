@@ -1,0 +1,40 @@
+Question: A petroleum company in Western Australia plans to begin offshore drilling operations. They need to address compliance with safety regulations set forth by the Work Health and Safety Act 2020, especially in creating exclusion zones and managing environmental impacts. What safety compliance issue must the petroleum company address for offshore drilling in Western Australia?
+Option:
+A. Drilling location approval
+B. Establishing exclusion zones
+C. Community engagement
+D. Resource management
+answer: B
+
+Question: A construction company in Western Australia is about to start designing a new plant. The design phase is set to begin shortly before the 2nd anniversary of the Commencement Day specified in the Work Health and Safety Act 2020. The company is concerned about whether the new requirements under Section 22 regarding the design of plants apply to their project. What is the primary issue the construction company needs to address before starting the design of the new plant?
+Option:
+A. Whether the new design complies with safety regulations.
+B. Whether the design initiation timing affects the applicability of Section 22.
+C. Whether the cost of the project is within budget.
+D. Whether the project team is qualified.
+answer: B
+
+Question: A supplier in WA is planning to start supplying a new chemical substance just before the first anniversary of the Commencement Day of the Work Health and Safety Act 2020. The supplier is unsure if the new requirements under Section 25 regarding the supply of substances are applicable to them. What is the primary concern the supplier needs to address with respect to the new chemical substance?
+Option:
+A. Whether the substance is hazardous.
+B. Whether Section 25 applies due to the timing of the supply initiation.
+C. Whether the supply process is cost-effective.
+D. Whether they need special permits for the substance.
+answer: B
+
+Question: The office of WorkSafe Commissioner has become vacant due to the WorkSafe Commissioner being absent without the Minister's leave from three consecutive meetings of the Work Health and Safety Commission. The Minister now seeks to appoint an Acting WorkSafe Commissioner on a temporary basis. Under what condition does the office of the WorkSafe Commissioner become vacant?
+Option:
+A. When the Commissioner resigns by written notice.
+B. If the Commissioner becomes a bankrupt.
+C. If the Commissioner is absent without the Minister's leave from three meetings.
+D. All of the above.
+answer: D
+
+Question: A temporary Acting Chief Inspector of Mines needs to be appointed as the current Chief Inspector is unable to perform duties due to prolonged sickness. Under what circumstances can the office of Chief Inspector of Mines be temporarily vacant?
+Option:
+A. Resignation of the officer
+B. Permanent incapacity
+C. Temporary sickness
+D. All of the above
+answer: C
+

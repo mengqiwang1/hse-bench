@@ -1,0 +1,1 @@
+This task involves evaluating an HSE legal or safety issue using multiple expert roles tailored to the case. Each expert provides an independent opinion using IRAC (Issue, Rule, Application, Conclusion) and step-by-step reasoning. A final judgment then synthesizes their insights into a justified, well-reasoned decision that balances regulatory compliance with practical safety.

@@ -1,0 +1,21 @@
+Question: In a recent case in New South Wales, SafeWork NSW prosecuted XYZ Constructions Pty Ltd and its manager, Jane Roe, after an incident where a worker was injured due to lack of fall protection measures during a construction project. The company was found guilty of failing to adhere to the guidelines set by the SafeWork NSW Code of Practice for Construction Work. Jane Roe was also found responsible for not providing adequate supervision and training to the workers. As a result, the court imposed a fine of $80,000 on XYZ Constructions Pty Ltd and a $25,000 fine on Jane Roe. The case served as a reminder of the obligations under the Work Health and Safety Act 2011 to ensure a safe working environment and the importance of managerial oversight. What is the central issue in the XYZ Constructions Pty Ltd case?
+Option:
+A. Unauthorized work hours.
+B. Lack of proper fall protection measures.
+C. Delay in project completion.
+D. Faulty construction materials used.
+answer: B
+cot:
+To identify the central issue in the case involving XYZ Constructions Pty Ltd, we first need to break down the information provided:
+
+1. **Incident Details**: The case revolves around an incident where a worker was injured due to a specific failure on the part of XYZ Constructions Pty Ltd.
+
+2. **Lack of Fall Protection**: The description explicitly states that the injury occurred because there were inadequate fall protection measures in place during the construction project. This indicates a serious oversight in safety protocols that are essential for protecting workers in construction environments.
+
+3. **Legal Findings**: The company, as well as its manager, were prosecuted for not adhering to safety guidelines outlined in the SafeWork NSW Code of Practice for Construction Work. The court¡¯s decision to impose fines on both the company and the manager directly correlates with the absence of safety measures, particularly in regard to fall protection.
+
+4. **Importance of Managerial Oversight**: The fact that the manager, Jane Roe, was held responsible for not providing adequate supervision and training indicates that the case emphasizes the importance of ensuring safety measures and compliance with regulations. This further supports the notion that the failure to implement proper fall protection measures is the main issue at hand.
+
+In summary, since the injury stemmed specifically from a lack of fall protection measures, and this is a core violation of safety standards that the company was found guilty of, the central issue in this case is unequivocally:
+
+**B. Lack of proper fall protection measures.**

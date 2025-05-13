@@ -1,0 +1,40 @@
+Question: A petroleum company in Western Australia plans to begin offshore drilling operations. They need to address compliance with safety regulations set forth by the Work Health and Safety Act 2020, especially in creating exclusion zones and managing environmental impacts. What final action is necessary for the petroleum company after ensuring compliance under the Work Health and Safety Act 2020?
+Option:
+A. Start drilling operations
+B. Review and document compliance measures
+C. Notify regional authorities
+D. Schedule a safety re-evaluation
+answer: B
+
+Question: A construction company in Western Australia is about to start designing a new plant. The design phase is set to begin shortly before the 2nd anniversary of the Commencement Day specified in the Work Health and Safety Act 2020. The company is concerned about whether the new requirements under Section 22 regarding the design of plants apply to their project. What is the legal conclusion for the construction company's plant design concerning Section 22?
+Option:
+A. Section 22 does not apply as the design was initiated before the anniversary.
+B. Section 22 applies because the design will be completed after the 2nd anniversary.
+C. Section 22 applies regardless of completion date as it was initiated before the anniversary.
+D. Section 22 never applies to this project.
+answer: B
+
+Question: A supplier in WA is planning to start supplying a new chemical substance just before the first anniversary of the Commencement Day of the Work Health and Safety Act 2020. The supplier is unsure if the new requirements under Section 25 regarding the supply of substances are applicable to them. What is the conclusion regarding the applicability of Section 25 to the new chemical substance supply?
+Option:
+A. Section 25 does not apply as it commenced before the anniversary.
+B. Section 25 applies because the supply was completed after the first anniversary.
+C. Section 25 applies regardless of the completion date.
+D. Section 25 applies only if additional safety protocols are violated.
+answer: B
+
+Question: The office of WorkSafe Commissioner has become vacant due to the WorkSafe Commissioner being absent without the Minister's leave from three consecutive meetings of the Work Health and Safety Commission. The Minister now seeks to appoint an Acting WorkSafe Commissioner on a temporary basis. Can the actions of an Acting WorkSafe Commissioner be legally questioned if the occasion for their appointment hadn’t arisen?
+Option:
+A. Yes, they can be questioned.
+B. No, they cannot be questioned.
+C. Yes, if there's evidence.
+D. Yes, but only in certain situations.
+answer: B
+
+Question: A temporary Acting Chief Inspector of Mines needs to be appointed as the current Chief Inspector is unable to perform duties due to prolonged sickness. Can the actions of an Acting Chief Inspector be questioned if the need for their role wasn't clear?
+Option:
+A. Yes, they can be questioned.
+B. No, they cannot be questioned.
+C. Only in extraordinary circumstances.
+D. Only with the Minister's approval.
+answer: B
+

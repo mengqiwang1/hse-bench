@@ -1,0 +1,12 @@
+Question: Jane, who is a newly appointed Chief Inspector of Mines in Western Australia, is found to be engaging in paid employment outside her official duties without the Minister's approval. This employment was discovered during a routine audit of her financial activities, and it raises concerns about her commitment and compliance with the Work Health and Safety Act 2020. What is the primary legal issue with Jane's actions?
+
+cot:
+To analyze the situation involving Jane, the newly appointed Chief Inspector of Mines, we need to consider the implications of her actions and the factors at play.
+
+1. **Employment Outside Official Duties**: The core issue is that Jane is engaging in paid employment outside her role as Chief Inspector of Mines without obtaining prior approval from the Minister. This suggests that her actions directly violate regulations or rules that govern her position, specifically those related to secondary employment.
+
+2. **Lack of Ministerial Approval**: Most public sector positions, especially those of significant responsibility like Jane's, require that any outside employment must be approved to ensure there are no conflicts of interest and to maintain the integrity of public service. In this case, the absence of approval indicates that her actions are unauthorized.
+
+3. **Relevance of the Work Health and Safety Act**: While her actions could raise concerns about compliance with the Work Health and Safety Act, that would pertain more to how her outside employment might impact her duties and responsibilities regarding safety regulations. However, the immediate issue at hand is about her unauthorized employment rather than a direct violation of health and safety regulations.
+
+Given this rationale, the primary legal issue with Jane's actions is that she is engaging in unauthorized employment. This violation of rules concerning outside employment is the most direct and clear legal issue arising from her actions.

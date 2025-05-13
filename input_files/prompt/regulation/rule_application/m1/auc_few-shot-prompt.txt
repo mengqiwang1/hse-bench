@@ -1,0 +1,15 @@
+Question: A petroleum company in Western Australia plans to begin offshore drilling operations. They need to address compliance with safety regulations set forth by the Work Health and Safety Act 2020, especially in creating exclusion zones and managing environmental impacts. How should the petroleum company implement safety regulations under the Work Health and Safety Act 2020 for offshore drilling?
+answer: Establish exclusion zones around the drilling site
+
+Question: A construction company in Western Australia is about to start designing a new plant. The design phase is set to begin shortly before the 2nd anniversary of the Commencement Day specified in the Work Health and Safety Act 2020. The company is concerned about whether the new requirements under Section 22 regarding the design of plants apply to their project. How does Section 22 apply to the construction company's project if the design starts shortly before the 2nd anniversary of the Commencement Day?
+answer: Section 22 applies if the design is completed after the 2nd anniversary.
+
+Question: A supplier in WA is planning to start supplying a new chemical substance just before the first anniversary of the Commencement Day of the Work Health and Safety Act 2020. The supplier is unsure if the new requirements under Section 25 regarding the supply of substances are applicable to them. How does Section 25 apply to the supplier if the supply starts just before the first anniversary of the Commencement Day?
+answer: Section 25 applies as long as the supply process is ongoing past the first anniversary.
+
+Question: The office of WorkSafe Commissioner has become vacant due to the WorkSafe Commissioner being absent without the Minister's leave from three consecutive meetings of the Work Health and Safety Commission. The Minister now seeks to appoint an Acting WorkSafe Commissioner on a temporary basis. What is the duration limit for an appointment of an Acting WorkSafe Commissioner?
+answer: 3 months
+
+Question: A temporary Acting Chief Inspector of Mines needs to be appointed as the current Chief Inspector is unable to perform duties due to prolonged sickness. What entitlements does a person acting as the Chief Inspector of Mines have?
+answer: All functions and entitlements of the office
+

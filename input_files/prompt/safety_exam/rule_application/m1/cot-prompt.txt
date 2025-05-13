@@ -1,0 +1,19 @@
+Question: A construction worker named John is required to work on a building site in a metropolitan area, specifically on the third floor, installing windows. He has received safety training but is not using a safety harness as there are temporary guardrails installed. However, he notices the guardrails are slightly loose. What should be done if John notices defective guardrails?
+Option:
+A. Ignore and continue work
+B. Report to a supervisor immediately
+C. Use them as makeshift fall protection
+D. Tighten the guardrails himself
+answer: B
+cot:
+In this situation, we must prioritize safety above all else, especially since John is working on the third floor and the guardrails are intended to protect workers from falls. 
+
+1. **Assessment of the Situation**: John has noticed that the guardrails are slightly loose. This is a critical safety concern because if the guardrails fail, they will not provide the necessary protection against falls, which can lead to serious injuries or fatal accidents.
+
+2. **Consideration of Options**:
+   - **Option A (Ignore and continue work)**: Ignoring the issue is not safe and could lead to a serious accident. This option puts John's well-being at risk, as well as that of his coworkers.
+   - **Option B (Report to a supervisor immediately)**: This is the most responsible action. By reporting the loose guardrails to a supervisor, John ensures that the issue is addressed properly, and corrective measures can be taken to fix the guardrails before anyone gets hurt.
+   - **Option C (Use them as makeshift fall protection)**: This is also unsafe. If the guardrails are loose, they cannot be relied upon for safety, and attempting to use them as protection could lead to a dangerous situation.
+   - **Option D (Tighten the guardrails himself)**: While this might seem proactive, John is likely not authorized to make such repairs unless he has specific training and permission to do so. It is best for the responsibility of safety repairs to remain with qualified personnel.
+
+3. **Conclusion**: The best course of action is for John to report the issue to a supervisor (Option B). This ensures that a qualified person can evaluate and remedy the situation according to safety protocols, maintaining a safe working environment for everyone on the site. Therefore, the correct answer is B.

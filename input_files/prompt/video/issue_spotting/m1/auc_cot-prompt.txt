@@ -1,0 +1,10 @@
+Question: The video frames depict a construction site where workers are engaged in building a concrete structure. The construction site is in a rural or forested area with good weather conditions. Workers are setting up and reinforcing concrete forms, wearing safety gear like helmets and gloves. Some are on scaffolding adjusting wooden planks and supports, others on the ground handling materials like rebar. As frames progress, wooden panels are fixed onto the structure, and by the final frames, the walls appear more complete, and workers begin clearing materials. Which of the following PPE is explicitly mandated by the HSE regulations in construction environments?
+
+cot:  
+1. **Head injury risk**  
+   Construction sites present a high risk of falling objects and head trauma. The HSE expressly requires head protection in any area where there is a danger of head injury.
+
+2. **Other PPE considerations**  
+   Hearing protection, gloves, and high-visibility clothing are important where specific hazards exist, but the HSE mandates them only in context-dependent scenarios rather than universally across all sites.
+
+Given this rationale, the PPE explicitly mandated by HSE regulations in construction environments is hard hats for head protection.

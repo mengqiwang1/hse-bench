@@ -1,0 +1,13 @@
+{
+    "regulation_misleading_output_folder": "../results/regulation/v1_misleading/",
+    "court_case_misleading_output_folder": "../results/court_case/v1_misleading/",
+    "exam_misleading_output_folder": "../results/SafetyExam/v1_misleading/",
+    "video_misleading_output_folder": "../results/Video/v1_misleading/",
+    "api_keys": {
+        "openai": "",
+        "google": "",
+        "anthropic": "",
+        "nebius": "",
+        "deepseek": ""
+    }
+}

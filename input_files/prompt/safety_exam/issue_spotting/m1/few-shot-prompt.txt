@@ -1,0 +1,40 @@
+Question: In a bustling factory, John, a safety officer, observed a worker using a grinding machine without wearing eye protection, while others around were complying with PPE policies. What potential issue did John observe in the factory?
+Option:
+A. Lack of noise control measures
+B. Worker not using eye protection
+C. Machine malfunction
+D. Poor ventilation
+answer: B
+
+Question: Sarah was responsible for conducting a safety audit at a manufacturing plant but noticed that several fire extinguishers were either missing or expired. What issue did Sarah identify during the safety audit?
+Option:
+A. Overcrowded escape routes
+B. Expired fire extinguishers
+C. Lack of emergency lighting
+D. Faulty smoke detectors
+answer: B
+
+Question: During a routine inspection, a construction site supervisor, Mike, noticed that workers were not following proper fall protection measures at elevated work areas. What critical issue did Mike observe on the construction site?
+Option:
+A. Lack of hard hats
+B. Improper fall protection
+C. Faulty scaffolding
+D. Poor communication tools
+answer: B
+
+Question: During a chemical handling operation in a laboratory, Emma realized that the Safety Data Sheets (SDS) were not accessible to the workers handling hazardous substances. What key issue did Emma identify during the operation?
+Option:
+A. Improper ventilation systems
+B. Unavailable Safety Data Sheets
+C. Lack of PPE usage
+D. Failure in waste disposal
+answer: B
+
+Question: A construction worker named John is required to work on a building site in a metropolitan area, specifically on the third floor, installing windows. He has received safety training but is not using a safety harness as there are temporary guardrails installed. However, he notices the guardrails are slightly loose. What potential issue arises from John not wearing a safety harness?
+Option:
+A. Improper training
+B. Guardrails might fail
+C. Lack of supervision
+D. High wind speed
+answer: B
+

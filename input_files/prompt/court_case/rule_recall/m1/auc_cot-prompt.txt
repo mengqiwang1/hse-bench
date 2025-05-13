@@ -1,0 +1,14 @@
+Question: In a recent case in New South Wales, SafeWork NSW prosecuted XYZ Constructions Pty Ltd and its manager, Jane Roe, after an incident where a worker was injured due to lack of fall protection measures during a construction project. The company was found guilty of failing to adhere to the guidelines set by the SafeWork NSW Code of Practice for Construction Work. Jane Roe was also found responsible for not providing adequate supervision and training to the workers. As a result, the court imposed a fine of $80,000 on XYZ Constructions Pty Ltd and a $25,000 fine on Jane Roe. The case served as a reminder of the obligations under the Work Health and Safety Act 2011 to ensure a safe working environment and the importance of managerial oversight. Which act governs the safety requirements violated by XYZ Constructions Pty Ltd?
+
+cot:
+To determine which act governs the safety requirements violated by XYZ Constructions Pty Ltd, we need to analyze the context of the situation presented.
+
+1. **Nature of the Incident**: The incident involved a worker being injured due to a lack of fall protection measures during a construction project. This indicates a serious safety concern related to workplace conditions.
+
+2. **Key Legislation**: The case mentions that safe practices in the workplace, particularly within the construction sector, are governed by certain laws and codes. The information specifies that XYZ Constructions Pty Ltd failed to adhere to the guidelines set by the SafeWork NSW Code of Practice for Construction Work.
+
+3. **Relevant Act**: The Work Health and Safety Act 2011 is specifically designed to ensure that employers provide a safe working environment for their employees. It sets out the obligations of businesses and their managers to uphold safety standards.
+
+4. **Conclusion**: Given that the case revolves around workplace safety and compliance with relevant safety codes, the most appropriate act governing the safety requirements violated by XYZ Constructions Pty Ltd is the **Work Health and Safety Act 2011**.
+
+Thus, the answer is **Work Health and Safety Act 2011**.

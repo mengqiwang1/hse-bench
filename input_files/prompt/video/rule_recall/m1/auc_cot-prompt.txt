@@ -1,0 +1,8 @@
+Question: The video frames depict a construction site where workers are engaged in building a concrete structure in a rural or forested area. Workers are seen on scaffolding and ladders adjusting wooden supports and handling materials like rebar, all while wearing helmets and gloves. According to OSHA standards, what is the primary reason for mandating the use of safety helmets on construction sites?
+
+cot:  
+To determine the primary rationale behind OSHA’s helmet requirement, we consider the typical hazards encountered on construction sites:  
+1. OSHA’s fall-protection and head-protection standards emphasize preventing injuries from overhead or flying objects, as uncontrolled impacts to the head can result in serious trauma.  
+2. Although helmets may offer limited electrical insulation and can contribute to overall safety culture, their fundamental purpose is to absorb and deflect impacts from falling debris or tools.  
+
+Therefore, the answer is: **C. To protect against impact and falling debris.**

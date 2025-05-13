@@ -1,0 +1,13 @@
+Question: The video frames depict a construction site where workers are engaged in building a concrete structure in a rural or forested area. Workers are seen on scaffolding and ladders adjusting wooden supports and handling materials like rebar, all while wearing helmets and gloves. In applying OSHA scaffold safety standards, which deficiency is evident in the video?
+
+cot:  
+1. **Elevated work without fall arrest**  
+   Workers are performing tasks on scaffolding and ladders at height, yet there is no indication of personal fall arrest systems such as harnesses or lifelines.
+
+2. **Assessment of other scaffold requirements**  
+   The description does not mention instability, overcrowding, or bracing issues, and PPE like helmets and gloves are in use, so those aspects appear compliant.
+
+3. **OSHA emphasis on fall protection**  
+   OSHA standards require that employees working on scaffolds more than 10 feet above a lower level must be protected from falls by guardrails, safety nets, or personal fall arrest systems.
+
+Given this analysis, the clear deficiency is the lack of visible fall arrest systems for workers on the scaffolding.

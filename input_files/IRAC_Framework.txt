@@ -1,0 +1,49 @@
+IRAC American legal scholars often describe “legal reasoning” as the process of determining the legal conditions that arise from a set of events or occurrences, with reference to both prior cases and codified laws [47]. A common framework for executing this type of legal reasoning is the Issue, Rule, Application and Conclusion (IRAC) framework [148, 124].
+In this framework, legal reasoning decomposes into four sequential steps.
+
+First, lawyers identify the legal issue in a given set of facts (issue-spotting). An issue is often either (1) a specific unanswered legal question posed by the facts, or (2) an area of law implicated in the facts. Depending on the setting, a lawyer may be told the issue, or be required to infer a possible issue.
+Second, lawyers identify the relevant legal rules for this issue (rule-recall). A rule is a statement of law which dictates the conditions that are necessary (or sufficient) for some legal outcome to be achieved. In the United States, rules can come from a variety of sources: the Constitution, federal and state statutes, regulations, and court opinions (case law). Importantly, rules often differ between jurisdictions. Hence, the relevant rule in California might be different than the relevant rule in New York.
+Third, lawyers apply these rules to the facts at hand (rule-application). Application, or the analysis of rule applicability, consists of identifying those facts which are most relevant to the rule, and determining how those facts influence the outcome under the rule. Application can also involve referencing prior cases involving similar rules (i.e. precedent), and using the similarities or differences to those cases to determine the outcome of the current dispute.
+Finally, lawyers reach a conclusion with regards to their application of law to facts, and determine what the legal outcome of those facts are (rule-conclusion).
+
+The above content is the four parts of the framework we require. Here is an example:
+Example We illustrate this framework with a simple example. Suppose that BusinessMart—a large manufacturing corporation—is being sued by Amy in federal court on diversity jurisdiction.5 BusinessMart sells the majority of its goods in Texas, has its headquarters (where its CEO and board members sit and work) in California, and maintains a factory in Florida. A court is trying to determine—for the purposes of diversity jurisdiction—where BusinessMart’s “principal place of business is.”
+• Issue-spotting: Here, a narrow issue is offered—where is BusinessMart’s principal place of business?
+• Rule-recall: A lawyer would recognize that the most relevant rule here comes from the case Hertz Corp. v. Friend,6 in which the Supreme Court determined “that the phrase ‘principal place of business’ refers to the place where the corporation’s high level officers direct, control, and coordinate the corporation’s activities.”
+• Rule-application: Applying this rule to the facts above yields two observations. First, a corporation’s CEO and board members are examples of high level officers referred to in Hertz that control and conduct a company. Second, the place where BusinessMart’s high level officers control the company is California, as that is where the CEO and board sit and work.
+• Rule-conclusion: Based on the chain of inference spelled out in the application stage, a lawyer would thus conclude that California is BusinessMart’s principal place of business.
+
+We are going to do Evaluating legal reasoning in large language models.
+Here is an example of each part:
+Issue-spotting LEGALBENCH evaluates issue-spotting through tasks in which an LLM must determine if a set of facts raise a particular set of legal questions, implicate an area of the law, or are relevant to a specific party. Issue tasks evaluate a LLM’s ability to reason over the legal implications of different activities, events, and occurrences.
+An example of an issue-spotting task is the learned_hands_benefits task, which requires an LLM to determine (Yes/No) whether a post on a public legal aid forum raises issues related to welfare law (i.e., public benefits or social services). The box below shows how a LLM might be prompted for this task.
+Issue-spotting example: learned_hands_benefits
+Does the post discuss public benefits and social services that people can get from the government, like for food, disability, old age, housing, medical help, unemployment, child care, or other social needs?
+Post: “I am currently receiving support from social services, idk why, this is just how my life turned out. They have asked for all of my bank information for the past 12 months. I don’t know what this means. Why would they want that?”
+Answer: Yes
+
+Rule-recall LEGALBENCH evaluates rule-recall through tasks which require the LLM to generate the correct legal rule on an issue in a jurisdiction (e.g., the rule for hearsay in US federal court). A rule task can be an open-ended generation task—in which the LLM must generate the text of the rule for a jurisdiction—or a classification task—in which the LLM must determine whether the
+rule exists in that jurisdiction. Anchoring to jurisdiction is important, as legal rules differ across different jurisdictions. Rule tasks are particularly useful for measuring hallucinations [81]. An example of a rule-recall task is rule_qa, a question-answer task where questions include asking the model to state the formulations for different legal rules, identify where laws are codified, and general questions about doctrine.
+Rule-recall example: rule_qa
+Question: What are the four requirements for class certification under the Federal Rules of Civil Procedure?”
+Answer: Numerosity, commonality, typicality, adequacy
+
+Rule-conclusion LEGALBENCH evaluates rule-conclusion through tasks which require an LLM to determine the legal outcome of a set of facts under a specified rule. LLMs are evaluated purely on whether their predicted outcome is correct. For example, the ucc_v_common_law task asks a LLM to determine whether a contract is governed by the Uniform Commercial Code (UCC) or the common law of contracts. The LLM is always provided with the relevant rule, via the prompt (see below).
+Conclusion example: ucc_v_common_law
+The UCC (through Article 2) governs the sale of goods, which are defined as moveable tangible things (cars, apples, books, etc.), whereas the common law governs contracts for real estate and services. For the following contracts, determine if they are governed by the UCC or by common law.
+Contract: Alice and Bob enter into a contract for Alice to sell her bike to Bob for $50. Is this contract governed by the UCC or the common law?
+Governed by: UCC
+
+Rule-application LEGALBENCH evaluates rule-application through the same tasks used to measure rule-conclusion. When evaluating rule-application however, we prompt the LLM to provide an explanation of how the rule applies to a set of facts, and evaluate the quality of the generated explanation along two dimensions: (1) whether the explanation is correct, and (2) whether it contains analysis. Each metric captures a different dimension upon which a particular rule-application may be good. Correctness corresponds to the criteria that explanations should not contain errors. We focus on five types of errors: misstatements of the legal rule, misstatements of the fact pattern, incorrectly asserting the legal outcome, logic errors, and arithmetic errors. Analysis corresponds to the criteria that explanations should contain inferences from the facts that are relevant under the rule, and illustrate how a conclusion is reached. Consider, for example, an explanation which restates the rule, the fact pattern, and the predicted legal outcome. If the predicted legal outcome is correct, than the explanation in its entirety would be correct, because it contains no error.
+However, as prior works have noted [71, 30], examples like this are conclusory, and often unsatisfactory in the context of legal work. To standardize evaluation and enable future work, we have released an “answer guide” for each task used for rule-application, which contains the inferences required for each sample, and describes common modes of errors. All evaluations in LEGALBENCH for rule-application have been performed with respect to this answer-guide.
+Table 1 presents an examples of how three generations (corresponding to the Alice/Bob example above) would be evaluated under the above metrics. The first generation is incorrect, because it misstates the rule. The second generation is correct because it contains no falsehoods, but performs no analysis because it does not articulate inferences. The third generation is both correct and contains analysis, because it has no errors, and explicitly mentions an essential inference (e.g., that a bike is a “good”).
+
+Incorrect
+The contract is for Alice to sell her bike to Bob. The contract is governed by the common law, because all goods are governed by the common law.
+Correct, but no analysis 
+The contract is for Alice to sell her bike to Bob. The contract is governed by the UCC, because the UCC governs all goods.
+Correct and contains analysis
+The contract is for Alice to sell her bike to Bob. The contract is governed by the UCC, because a bike is a good and all goods are governed by the UCC.
+
+Table 1: An example of how different generations are evaluated for correctness and analysis.
+

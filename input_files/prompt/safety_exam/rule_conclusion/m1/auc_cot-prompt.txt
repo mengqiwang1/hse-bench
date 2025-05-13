@@ -1,0 +1,13 @@
+Question: A construction worker named John is required to work on a building site in a metropolitan area, specifically on the third floor, installing windows. He has received safety training but is not using a safety harness as there are temporary guardrails installed. However, he notices the guardrails are slightly loose. What is the concluding step if guardrails are deemed unsafe?
+
+cot:  
+1. **Emphasize immediate risk mitigation**  
+   Loose guardrails no longer provide dependable fall protection, which constitutes a critical hazard when working at height.
+
+2. **Evaluate corrective action authority**  
+   Only qualified personnel following site safety procedures should repair or replace guardrails; workers must not continue tasks in the presence of an unresolved hazard.
+
+3. **Align with standard safety protocols**  
+   Construction safety regulations mandate that work must cease if primary fall-protection measures are compromised, ensuring no one is exposed to undue risk.
+
+Thus, the appropriate concluding step is to halt work until the defective guardrails have been properly corrected.

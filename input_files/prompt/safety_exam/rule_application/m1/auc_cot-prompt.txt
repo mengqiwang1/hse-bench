@@ -1,0 +1,17 @@
+Question: A construction worker named John is required to work on a building site in a metropolitan area, specifically on the third floor, installing windows. He has received safety training but is not using a safety harness as there are temporary guardrails installed. However, he notices the guardrails are slightly loose. What should be done if John notices defective guardrails?
+
+cot:  
+1. **Prioritize fall-protection integrity**  
+   Guardrails are intended as a primary means of preventing falls. Loose or unstable guardrails no longer provide reliable protection against a fall from height, which can result in serious injury or death.
+
+2. **Assess the risk of unsupervised remedial action**  
+   Although tightening the guardrails might seem helpful, John may not have the proper tools, authority, or training to ensure the repair meets safety standards. Improper makeshift fixes can introduce new hazards.
+
+3. **Importance of supervisory oversight**  
+   Reporting the defect to a supervisor ensures that a qualified person can inspect, secure, or replace the guardrails according to site safety protocols and manufacturer specifications. This maintains consistent compliance with regulatory and company safety requirements.
+
+4. **Rejecting unsafe alternatives**  
+   - Ignoring the hazard exposes John and his coworkers to unacceptable risk.  
+   - Relying on the guardrails as makeshift fall protection when they are defective is equally dangerous.  
+
+John should therefore report the loose guardrails to his supervisor immediately so that proper corrective measures can be taken.

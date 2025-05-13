@@ -1,0 +1,15 @@
+Question: A petroleum company in Western Australia plans to begin offshore drilling operations. They need to address compliance with safety regulations set forth by the Work Health and Safety Act 2020, especially in creating exclusion zones and managing environmental impacts. Which act mandates the creation of exclusion zones for offshore petroleum operations in Western Australia?
+answer: Work Health and Safety Act 2020
+
+Question: A construction company in Western Australia is about to start designing a new plant. The design phase is set to begin shortly before the 2nd anniversary of the Commencement Day specified in the Work Health and Safety Act 2020. The company is concerned about whether the new requirements under Section 22 regarding the design of plants apply to their project. What rule governs the applicability of Section 22 for plant designs in WA?
+answer: Section 22 applies only if the designing of plants is started on or after the Commencement Day, or if not completed by the 2nd anniversary after starting before the Commencement Day.
+
+Question: A supplier in WA is planning to start supplying a new chemical substance just before the first anniversary of the Commencement Day of the Work Health and Safety Act 2020. The supplier is unsure if the new requirements under Section 25 regarding the supply of substances are applicable to them. What rule determines if Section 25 applies to substances supplied in WA?
+answer: Section 25 applies if the supply starts before the Commencement Day but is completed after the first anniversary.
+
+Question: The office of WorkSafe Commissioner has become vacant due to the WorkSafe Commissioner being absent without the Minister's leave from three consecutive meetings of the Work Health and Safety Commission. The Minister now seeks to appoint an Acting WorkSafe Commissioner on a temporary basis. When can the Minister appoint an Acting WorkSafe Commissioner?
+answer: When the office is vacant or the Commissioner is unable to perform duties.
+
+Question: A temporary Acting Chief Inspector of Mines needs to be appointed as the current Chief Inspector is unable to perform duties due to prolonged sickness. When can the Minister appoint an Acting Chief Inspector of Mines?
+answer: When the office is vacant or the current inspector is unable to perform duties.
+

@@ -1,0 +1,15 @@
+Question: A construction worker named John is required to work on a building site in a metropolitan area, specifically on the third floor, installing windows. He has received safety training but is not using a safety harness as there are temporary guardrails installed. However, he notices the guardrails are slightly loose. What potential issue arises from John not wearing a safety harness?
+
+cot:  
+To determine the risk John faces by foregoing a safety harness, we examine the situation in light of standard fall-protection measures:
+
+1. **Reliance on Guardrails Alone**  
+   John is working at height with only temporary guardrails for fall protection. While guardrails are an acceptable control under normal conditions, they serve as a passive barrier and offer no secondary backup if they fail.
+
+2. **Significance of a Safety Harness**  
+   A safety harness provides active fall arrest—catching a worker in case the primary barrier gives way. Without it, John has no personal fall-arrest system and would fall unimpeded should the guardrails fail.
+
+3. **Guardrail Integrity Concern**  
+   Loose guardrails are a clear sign of compromised stability. If they shift or collapse under load, John would have no protection, dramatically increasing his risk of a dangerous fall.
+
+Given this rationale, the primary safety concern with John not wearing a harness is that the loose temporary guardrails might fail, leaving him exposed to a potentially serious fall.

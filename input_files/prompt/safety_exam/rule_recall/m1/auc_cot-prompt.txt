@@ -1,0 +1,13 @@
+Question: A construction worker named John is required to work on a building site in a metropolitan area, specifically on the third floor, installing windows. He has received safety training but is not using a safety harness as there are temporary guardrails installed. However, he notices the guardrails are slightly loose. What is the minimum force guardrails should be able to withstand according to OSHA?
+
+cot:  
+1. **Purpose of guardrail strength requirements**  
+   Guardrails must resist forces that could dislodge them and expose workers to fall hazards. OSHA establishes a quantitative threshold to ensure reliability under normal use.
+
+2. **OSHA specification review**  
+   OSHA standard 29 CFR 1926.502(b)(3) mandates that top rails of guardrail systems withstand at least 200 pounds of force applied in any outward or downward direction.
+
+3. **Eliminating other values**  
+   Forces of 100 lb and 150 lb fall below the OSHA minimum, while 250 lb exceeds the required threshold but does not reflect the specified standard.
+
+Therefore, the minimum force guardrails must withstand according to OSHA is 200 pounds.

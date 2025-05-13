@@ -1,0 +1,40 @@
+Question: In a bustling factory, John, a safety officer, observed a worker using a grinding machine without wearing eye protection, while others around were complying with PPE policies. How should John apply the PPE policy if he notices non-compliance?
+Option:
+A. Ignore it and focus on other tasks
+B. Report it to management
+C. Immediately provide eye protection and training
+D. Wait for the next safety audit
+answer: C
+
+Question: Sarah was responsible for conducting a safety audit at a manufacturing plant but noticed that several fire extinguishers were either missing or expired. What immediate action should Sarah take regarding the expired or missing extinguishers?
+Option:
+A. Ignore the issue for now
+B. Request replacements and log the issue
+C. Conduct a fire drill to test response
+D. Move fire extinguishers from other areas
+answer: B
+
+Question: During a routine inspection, a construction site supervisor, Mike, noticed that workers were not following proper fall protection measures at elevated work areas. What should Mike prioritize to enhance on-site safety regarding falls?
+Option:
+A. Host a safety meeting
+B. Remind workers verbally
+C. Ensure strict enforcement of gear use
+D. Wait for an incident to occur
+answer: C
+
+Question: During a chemical handling operation in a laboratory, Emma realized that the Safety Data Sheets (SDS) were not accessible to the workers handling hazardous substances. What should Emma do to address the problem of inaccessible Safety Data Sheets?
+Option:
+A. Notify OSHA
+B. Leave it for the next team meeting
+C. Ensure immediate accessibility and training
+D. Ignore, assuming no immediate danger
+answer: C
+
+Question: A construction worker named John is required to work on a building site in a metropolitan area, specifically on the third floor, installing windows. He has received safety training but is not using a safety harness as there are temporary guardrails installed. However, he notices the guardrails are slightly loose. What should be done if John notices defective guardrails?
+Option:
+A. Ignore and continue work
+B. Report to a supervisor immediately
+C. Use them as makeshift fall protection
+D. Tighten the guardrails himself
+answer: B
+

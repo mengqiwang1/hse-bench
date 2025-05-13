@@ -1,0 +1,32 @@
+{
+    "regulation": [
+        {
+            "name": "{file name}",
+            "region_name": "{region name}",
+            "input_file_path": "/path/to/file"
+        }
+    ],
+    "court_case": [
+        {
+            "name": "{file name}",
+            "region_name": "{region name}",
+            "input_file_path": "/path/to/file"
+        }
+    ],
+    "regulation_split_size": 1,
+    "regulation_output_folder": "../results/regulation/v1/",
+    "court_case_output_folder": "../results/court_case/v1/",
+    "exam_input_folder": "../results/SafetyExam/test_input/",
+    "exam_output_folder": "../results/SafetyExam/v1/",
+    "video_input_folder": "../results/Video/test_input/",
+    "video_output_folder": "../results/Video/v1/",
+    "regulation_misleading_output_folder": "../results/regulation/v1_misleading/",
+    "court_case_misleading_output_folder": "../results/court_case/v1_misleading/",
+    "exam_misleading_output_folder": "../results/SafetyExam/v1_misleading/",
+    "video_misleading_output_folder": "../results/Video/v1_misleading/",
+    "retries": 3,
+    "exam_scenarios_count": 1,
+    "OPENAI_API_KEY":  "OPENAI_API_KEY",
+    "OPENAI_BASE_URL": "https://api.openai.com/v1/",
+    "model_name": "gpt-4o"
+}
