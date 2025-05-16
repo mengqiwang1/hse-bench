@@ -2,7 +2,7 @@
 This is the code for the paper "LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements".
 
 ## Pipeline
-<img src="input_files/figures/pipeline.png" alt="pipeline_figure" width="80%">
+![pipeline_figure](input_files/figures/pipeline.png)
 
 ## Dataset Statistics
 | Description                                      | Value   |
