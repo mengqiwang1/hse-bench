@@ -1,6 +1,35 @@
 # hse-bench
 This is the code for the paper "LLM-based HSE Compliance Assessment: Benchmark, Performance, and Advancements".
 
+## Pipeline
+<img src="input_files/figures/pipeline.png" alt="pipeline_figure" width="80%">
+
+## Dataset Statistics
+| Description                                      | Value   |
+|--------------------------------------------------|---------|
+| No. of questions in regulation                  | 448     |
+| No. of questions in court case                  | 152     |
+| No. of questions in exam                        | 320     |
+| No. of questions in video                       | 100     |
+| Total number of IRAC questions                  | 1020    |
+| Avg. words per question in regulation           | 60.24   |
+| Avg. words per question in court case           | 111.76  |
+| Avg. words per question in exam                 | 92.49   |
+| Avg. words per question in video                | 106.65  |
+| Avg. words per option in regulation             | 10.99   |
+| Avg. words per option in court case             | 6.56    |
+| Avg. words per option in exam                   | 9.73    |
+| Avg. words per option in video                  | 9.42    |
+| Avg. words per question in issue spotting       | 89.07   |
+| Avg. words per question in rule recall          | 91.94   |
+| Avg. words per question in rule application     | 97.98   |
+| Avg. words per question in rule conclusion      | 92.14   |
+| Avg. words per option in issue spotting         | 7.69    |
+| Avg. words per option in rule recall            | 7.21    |
+| Avg. words per option in rule application       | 11.48   |
+| Avg. words per option in rule conclusion        | 10.33   |
+
+
 ## question_generation
 This is how we generate and rephrase the questions for our dataset. 
 
